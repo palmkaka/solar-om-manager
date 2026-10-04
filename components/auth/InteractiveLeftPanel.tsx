@@ -110,7 +110,7 @@ export default function InteractiveLeftPanel() {
       {/* Bottom */}
       <div className="relative z-10 pointer-events-none">
         <p className="text-xs font-medium text-gray-400">
-          © 2026 EV Power Energy Co., Ltd. Internal Use Only.
+          © 2026 phuwaratnan wongpoonga. Internal Use Only.
         </p>
       </div>
     </div>
